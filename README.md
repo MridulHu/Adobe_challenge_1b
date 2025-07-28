@@ -73,6 +73,6 @@ collection_3/
 Then rerun the pipeline with Docker.
 
 Author
-Mridul
-Areef
-Sajjid
+Mridul Das
+Areef Khan
+Sajjid Ali
